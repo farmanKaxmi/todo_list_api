@@ -11,7 +11,7 @@ This is a Django project that uses Redis as a Celery broker for handling asynchr
 
 **1. Clone the repository:**
 
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/farmanKaxmi/todo_list_api.git
    cd your-project
 
 **1 - Build and start the project using Docker Compose:**
