@@ -11,7 +11,6 @@ This is a Django project that uses Redis as a Celery broker for handling asynchr
 
 **1. Clone the repository:**
 
-   ```bash
    git clone https://github.com/your-username/your-project.git
    cd your-project
 
